@@ -3,11 +3,15 @@
 A color theme based on Sublime Text
 
 <h4>Installation</h4>
+
 Copy the file somewhere in your load-path, then add to your .emacs:
+
 	(color-theme-initialize)
 	(color-theme-emacsmonokai)
 	
 or M-x color-theme-emacsmonokai
+
+<h4>screenshot</h4>
 
 ![screenshot](https://github.com/gygy/color-theme-emacsmonokai/raw/master/color-theme-emacsmonokai.png)
 
