@@ -13,8 +13,6 @@ or M-x color-theme-emacsmonokai
 
 <h4>screenshot</h4>
 
-![screenshot](https://github.com/gygy/color-theme-emacsmonokai/raw/master/color-theme-emacsmonokai.png)
-
 ![screenshot](https://github.com/gygy/color-theme-emacsmonokai/raw/master/color-theme-emacsmonokai2.png)
 =======
 color-theme-emacsmonokai
